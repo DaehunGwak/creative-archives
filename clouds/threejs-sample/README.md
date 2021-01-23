@@ -1,8 +1,8 @@
-# threejs-sample
+# threejs-sample (golden)
 
 - [demo link](https://daehungwak.github.io/web-ui-archive/clouds/threejs-sample/)
 
-![cloud sample image](./images/sample-image.png)
+![cloud sample image](./images/sample-image.jpg)
 
 - date: 2021-01-24
 - requirements

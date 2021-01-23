@@ -9,4 +9,4 @@ Experimental Web UI
 
 - [readme.md](./clouds/README.md)
 
-![cloud sample image](./clouds/threejs-sample/images/sample-image.png)
+![cloud sample image](./clouds/threejs-sample/images/sample-image.jpg)

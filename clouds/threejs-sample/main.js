@@ -40,9 +40,9 @@ function init() {
 
   const context = canvas.getContext("2d");
   const gradient = context.createLinearGradient(0, 0, 0, 32);
-  gradient.addColorStop(0.0, "#014a84");
-  gradient.addColorStop(0.5, "#0561a0");
-  gradient.addColorStop(1.0, "#437ab6");
+  gradient.addColorStop(0.0, "#000000");
+  gradient.addColorStop(0.5, "#111111");
+  gradient.addColorStop(1.0, "#444444");
   context.fillStyle = gradient;
   context.fillRect(0, 0, 1, 32);
 
@@ -193,7 +193,7 @@ function init() {
   const material = new THREE.RawShaderMaterial({
     glslVersion: THREE.GLSL3,
     uniforms: {
-      base: { value: new THREE.Color(0x798aa0) },
+      base: { value: new THREE.Color(0xbd7100) },
       map: { value: texture },
       cameraPos: { value: new THREE.Vector3() },
       threshold: { value: 0.25 },
