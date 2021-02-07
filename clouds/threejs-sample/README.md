@@ -1,6 +1,6 @@
 # threejs-sample (golden)
 
-- [demo link](https://daehungwak.github.io/web-ui-archive/clouds/threejs-sample/)
+- [demo link](https://daehungwak.github.io/creative-archives/clouds/threejs-sample/)
 
 ![cloud sample image](./images/sample-image.jpg)
 
