@@ -8,6 +8,15 @@
 ## demos
 
 - 01
+
   - [p5js tutorials - 1.0](https://daehungwak.github.io/creative-archives/creative-coding-101/01/p5js-tutorials/1.0/)
+  
+    <img src="./images/01/1.0.png" width="200px">
+
   - [p5js tutorials - 1.1](https://daehungwak.github.io/creative-archives/creative-coding-101/01/p5js-tutorials/1.1/)
+
+    <img src="./images/01/1.1.png" width="200px">
+
   - [p5js tutorials - 1.2](https://daehungwak.github.io/creative-archives/creative-coding-101/01/p5js-tutorials/1.2/)
+
+    <img src="./images/01/1.2.png" width="200px">
