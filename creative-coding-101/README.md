@@ -20,3 +20,7 @@
   - [p5js tutorials - 1.2](https://daehungwak.github.io/creative-archives/creative-coding-101/01/p5js-tutorials/1.2/)
 
     <img src="./images/01/1.2.png" width="200px">
+
+  - [p5js tutorials - 1.3](https://daehungwak.github.io/creative-archives/creative-coding-101/01/p5js-tutorials/1.2/)
+
+    <img src="./images/01/1.3.png" width="200px">

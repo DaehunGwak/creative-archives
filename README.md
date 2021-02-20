@@ -15,3 +15,6 @@ Experimental Web UI
 ## 크리에이티브 코딩 101 라이브 튜토리얼
 
 - [readme.md](./creative-coding-101/README.md)
+
+
+![p5js sample image](./creative-coding-101/images/01/1.2.png)
